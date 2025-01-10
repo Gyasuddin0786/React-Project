@@ -1,4 +1,4 @@
-# 🎨 React Apps: Color Changer, Counter, Password Toggle, and Theme Button
+# 🎨 React Apps: Color Changer, Counter, Random Password Generator, and Theme Button
 
 This repository contains multiple simple React apps to demonstrate fundamental concepts like state management, event handling, and conditional rendering.
 
