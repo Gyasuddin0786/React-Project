@@ -27,4 +27,4 @@ This repository contains multiple simple React apps to demonstrate fundamental c
 1. Clone the repository:
    ```bash
    git@github.com:Gyasuddin0786/React-Project.git
-   cd your-repo-name
+   cd React-Project
